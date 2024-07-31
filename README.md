@@ -1,13 +1,13 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1722470400&v=beta&t=cSgyHOROb7kTzx72GKWRVzADb7eTPks6bC9ncvv955Y)](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1722470400&v=beta&t=cSgyHOROb7kTzx72GKWRVzADb7eTPks6bC9ncvv955Y)
 
 <h1 align="center">Hi 👋, I'm Saher Javed</h1>
-<h3 align="center">Aspiring Web Developer | Software Engineering Student | Web Development Intern at Plan D Studios</h3>
+<h3 align="center">Aspiring Web Developer | Software Engineering Student | Frontend Web Developer at Plan D Studios</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 
 
 - 🔭 I’m currently working on **Figma Project**
 
-- 🌱 I’m currently learning **Javascript & Angular**
+- 🌱 I’m currently learning **Php and MysQl**
 
 - 💬 Ask me about **Html, CSS , Bootstrap , Javascript**
 
